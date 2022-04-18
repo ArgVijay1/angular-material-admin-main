@@ -1,0 +1,10 @@
+name:
+description;
+category dropdown;
+token;
+rating 1 5o 5
+downloads:
+logo;
+appstore link L:input box
+recommanded  app
+delete 
